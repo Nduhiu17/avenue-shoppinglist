@@ -11,7 +11,11 @@ Clone the repository:
 - Install the project dependencies:
 > $ ```npm install```
 
-You can run the tests by running:
+> You can run the tests by running:
+
+> Run the app by:
+
+>$```npm start```
 
 >$```npm run test```
 
