@@ -6,6 +6,7 @@ It is an API that demonstratses logging using pino while executing some of rest 
 ### Development
 
 Clone the repository: 
+>$ ``` git clone https://github.com/Nduhiu17/avenue-shoppinglist.git```
 
 ### Dependencies
 - Install the project dependencies:
